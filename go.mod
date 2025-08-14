@@ -1,4 +1,4 @@
-module github.com/Choqlito-dev/stocakmq-utils
+module github.com/Choqlito-dev/stocakmq
 
 go 1.24.6
 
