@@ -1,14 +1,16 @@
 USO DE LIBRERIA STOCAKMQ
 
 > # Requisitos
-<<<<<<< HEAD
+>
+> <<<<<<< HEAD
+>
 > - Tener Go 1.24
-> - Tener RabbitMQ
-=======
+> - # Tener RabbitMQ
 >
 > Tener Go 1.24
 > Tener RabbitMQ
->>>>>>> ce293f3 (StocakMQ - Libreria)
+>
+> > > > > > > ce293f3 (StocakMQ - Libreria)
 
 # Instalacion
 
@@ -29,6 +31,7 @@ import (
 	"log"
 
 	rabbitmq "github.com/Choqlito-dev/stocakmq"
+	amqp "github.com/rabbitmq/amqp091-go"
 )
 
 func main() {
