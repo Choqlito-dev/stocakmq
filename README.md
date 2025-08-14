@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"log"
 
-	rabbitmq "github.com/CHoqlito-dev/stocakmq"
+	rabbitmq "github.com/Choqlito-dev/stocakmq"
 )
 
 func main() {
