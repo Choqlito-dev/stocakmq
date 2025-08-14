@@ -1,8 +1,8 @@
 USO DE LIBRERIA STOCAKMQ
 
 > # Requisitos
-> Tener Go 1.24
-> Tener RabbitMQ
+> - Tener Go 1.24
+> - Tener RabbitMQ
 
 # Instalacion
 
