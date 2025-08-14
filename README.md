@@ -1,7 +1,7 @@
 USO DE LIBRERIA STOCAKMQ
 
 # Instalacion
-
+> # XD
 ```
 go mod init tu-proyecto
 go get https://github.com/Choqlito-dev/stocakmq.git
