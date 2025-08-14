@@ -2,15 +2,8 @@ USO DE LIBRERIA STOCAKMQ
 
 > # Requisitos
 >
-> <<<<<<< HEAD
->
 > - Tener Go 1.24
-> - # Tener RabbitMQ
->
-> Tener Go 1.24
-> Tener RabbitMQ
->
-> > > > > > > ce293f3 (StocakMQ - Libreria)
+> - Tener RabbitMQ
 
 # Instalacion
 
